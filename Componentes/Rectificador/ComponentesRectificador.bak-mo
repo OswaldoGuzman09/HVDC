@@ -1,0 +1,5 @@
+within HVDC.Componentes.Rectificador;
+
+model ComponentesRectificador
+extends Modelica.Electrical.Analog.Interfaces.OnePort;
+end ComponentesRectificador;
